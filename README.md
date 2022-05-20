@@ -1,6 +1,7 @@
 # Portfolio-project-Python-Notes-App
 Basic terminal program in Python3 as part of Codeacademy Computer Science Career Path, CS101, introduction to programming
-https://github.com/Facumerino/Portfolio-project-Python-Notes-App.git
+
+https://medium.com/@facundomerino03/introduction-to-programming-notes-app-in-python-bea9372b515
 
 After acquiring all the knowledge about how to code in python, the last effort to complete this chapter was to create a terminal game or program running on python, were Codeacademy gave us some ideas to work with, but I stick with the one that said “Create your own idea”, giving me freedom to decide or choose whatever I wanted to create, putting in work all my imagination to create something unique and different than those options displayed as examples.
 
